@@ -77,31 +77,31 @@ I am currently designing and building **CloudLab**, a browser-based virtual deve
 *Browser-based virtual development environment and containerized online IDE.*
 - **Key Capabilities**: In-browser code editor, fully interactive terminal emulator, GitHub API synchronizer, Docker-isolated development environments, live developer collaboration, and a context-aware AI coding companion.
 - **Tech Highlights**: React, Vite, Node.js, TypeScript, Docker.
-- **Links**: 🛠️ **Working (Under Active Development)**
+- **Links**: 🌐 **Live Website**: **Currently Working** | 🐙 **GitHub Repository**: [Gautam-kumar01/CloudLab](https://github.com/Gautam-kumar01/CloudLab)
 
 #### 2. 📝 **ResumeCraft**
 *AI-driven interactive resume and web portfolio builder optimized for modern job markets.*
 - **Key Capabilities**: Step-by-step resume editor, recruiter-approved templates, automated ATS (Applicant Tracking System) check and score, one-click PDF generation, and self-hosted digital portfolio hosting.
 - **Tech Highlights**: Next.js, React, TypeScript, Google Gemini API, Vercel.
-- **Links**: 🌐 **Live Website**: [resumecraft.co.in](https://resumecraft.co.in) | 🐙 **GitHub Repository**: [Link Placeholder]((https://github.com/Gautam-kumar01/Resumecraft)
+- **Links**: 🌐 **Live Website**: [resumecraft.co.in](https://resumecraft.co.in) | 🐙 **GitHub Repository**: [Gautam-kumar01/Resumecraft](https://github.com/Gautam-kumar01/Resumecraft)
 
 #### 3. 🌍 **SIH 2026 / 3D ULPIN Project**
 *3D Unique Land Parcel Identification Number (ULPIN) Generation and Vertical Property Mapping System.*
 - **Key Capabilities**: GIS-based vertical property boundaries visualizer, PostGIS spatial analysis queries, GeoJSON-based parcel geometries rendering, CesiumJS 3D building modeling, and processing of LiDAR point clouds.
 - **Tech Highlights**: CesiumJS, PostGIS, PostgreSQL, GeoJSON, Node.js.
-- **Links**: 🐙 **GitHub Repository**: [Link Placeholder](https://github.com/Gautam-kumar01/<repo-name-placeholder>)
+- **Links**: 🐙 **GitHub Repository**: [Gautam-kumar01/SIH-2026](https://github.com/Gautam-kumar01/SIH-2026)
 
 #### 4. 🔄 **SkillSync**
 *Student-centered platform for skill tracking, professional certifications, and career map visualization.*
 - **Key Capabilities**: Interactive skill matrix, certification verified tracker, and personal developer brand growth monitoring.
 - **Tech Highlights**: React, Node.js, Express.js, MongoDB.
-- **Links**: 🐙 **GitHub Repository**: [Link Placeholder](https://github.com/Gautam-kumar01/<repo-name-placeholder>)
+- **Links**: 🐙 **GitHub Repository**: [Gautam-kumar01/Skillsync](https://github.com/Gautam-kumar01/Skillsync)
 
 #### 5. 🍎 **NutriLens AI**
 *AI-based calorie tracking, dietary mapping, and food recognition mobile-first utility.*
 - **Key Capabilities**: Food image segmentation & recognition, automatic portion and calorie estimates, detailed macronutrient breakdowns, and historical health dashboard insights.
 - **Tech Highlights**: React, Node.js, CSS3, Google Gemini Vision API.
-- **Links**: 🐙 **GitHub Repository**: [Link Placeholder](https://github.com/Gautam-kumar01/<repo-name-placeholder>)
+- **Links**: 🐙 **GitHub Repository**: [Gautam-kumar01/NutriLens-AI](https://github.com/Gautam-kumar01/NutriLens-AI)
 
 ---
 
