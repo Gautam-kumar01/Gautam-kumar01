@@ -146,8 +146,8 @@ I am currently designing and building **CloudLab**, a browser-based virtual deve
 
 ### 🤝 Connect With Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/<your-linkedin-username>](https://linkedin.com/in/imgautam01)
-- 📧 **Email**: [your.email@example.com](mailto:gautamkr192007@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/imgautam01](https://linkedin.com/in/imgautam01)
+- 📧 **Email**: [gautamkr192007@gmail.com](mailto:gautamkr192007@gmail.com)
 - 🌐 **Project Live Site**: [ResumeCraft](https://resumecraft.co.in)
 - 🖥️ **Personal Portfolio**: [portfolio-url-placeholder](https://<your-portfolio-website-link>)
 
