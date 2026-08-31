@@ -83,7 +83,7 @@ I am currently designing and building **CloudLab**, a browser-based virtual deve
 *AI-driven interactive resume and web portfolio builder optimized for modern job markets.*
 - **Key Capabilities**: Step-by-step resume editor, recruiter-approved templates, automated ATS (Applicant Tracking System) check and score, one-click PDF generation, and self-hosted digital portfolio hosting.
 - **Tech Highlights**: Next.js, React, TypeScript, Google Gemini API, Vercel.
-- **Links**: 🌐 **Live Website**: [resumecraft.co.in](https://resumecraft.co.in) | 🐙 **GitHub Repository**: [Link Placeholder](https://github.com/Gautam-kumar01/<repo-name-placeholder>)
+- **Links**: 🌐 **Live Website**: [resumecraft.co.in](https://resumecraft.co.in) | 🐙 **GitHub Repository**: [Link Placeholder]((https://github.com/Gautam-kumar01/Resumecraft)
 
 #### 3. 🌍 **SIH 2026 / 3D ULPIN Project**
 *3D Unique Land Parcel Identification Number (ULPIN) Generation and Vertical Property Mapping System.*
